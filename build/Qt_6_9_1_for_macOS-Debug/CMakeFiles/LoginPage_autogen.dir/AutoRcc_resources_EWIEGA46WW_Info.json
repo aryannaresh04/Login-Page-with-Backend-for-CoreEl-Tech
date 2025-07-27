@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/LoginPage_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/Aryan/QT Creator Files/LoginPage",
+	"CMAKE_SOURCE_DIR" : "/Users/Aryan/QT Creator Files/LoginPage",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/LoginPage_autogen/include",
+	"INPUTS" : [ "/Users/Aryan/QT Creator Files/LoginPage/images/coreel_logo.png" ],
+	"LOCK_FILE" : "/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/LoginPage_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/Users/Aryan/QT2/6.9.1/macos/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/LoginPage_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/Aryan/QT Creator Files/LoginPage/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

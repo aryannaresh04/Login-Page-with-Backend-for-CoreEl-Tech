@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9e36c8fa2b39aba2cb32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LoginPage",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LoginPage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LoginPage-Debug-83fcf5e7f91eec0aa619.json",
+					"name" : "LoginPage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LoginPage_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LoginPage_autogen-Debug-6843299b2b90095b2976.json",
+					"name" : "LoginPage_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LoginPage_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LoginPage_autogen_timestamp_deps-Debug-2d43d081f34c1c9789b6.json",
+					"name" : "LoginPage_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug",
+		"source" : "/Users/Aryan/QT Creator Files/LoginPage"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
