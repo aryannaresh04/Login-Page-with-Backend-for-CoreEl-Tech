@@ -19,6 +19,10 @@ A simple Qt-based login UI with backend authentication logic (CSV-based), develo
 
 ## Screenshots
 
+## Backend Authentication Logic
+
+- The application reads from a CSV file named `users.csv`
+- Each line in the file contains a username and password separated by a comma
 
 ## License
 MIT 
