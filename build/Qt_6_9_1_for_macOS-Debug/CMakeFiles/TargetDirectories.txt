@@ -1,9 +1,0 @@
-/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/LoginPage.dir
-/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
-/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
-/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
-/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install.dir
-/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install/local.dir
-/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install/strip.dir
-/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/LoginPage_autogen_timestamp_deps.dir
-/Users/Aryan/QT Creator Files/LoginPage/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/LoginPage_autogen.dir
